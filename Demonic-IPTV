@@ -1,170 +1,505 @@
-#EXTM3U $ExtFilter="24/7 Channels"
+<#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | (KIDS) ADVENTURE TIME
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6053.m3u8
 
- 
-#EXTINF:-1,24/7 | AMERICAN DAD!
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6069.m3u8
- 
-#EXTINF:-1,24/7 | AMERICAN PICKERS
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6072.m3u8
- 
-#EXTINF:-1,24/7 | ANGER MANAGEMENT
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6075.m3u8
- 
-#EXTINF:-1,24/7 | ARRESTED DEVELOPEMENT
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6076.m3u8
- 
-#EXTINF:-1,24/7 | ASH VS EVIL DEAD
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6077.m3u8
- 
-#EXTINF:-1,24/7 | AVATAR THE LAST AIR BENDER
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6079.m3u8
- 
-#EXTINF:-1,24/7 | BATES MOTEL
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6085.m3u8
- 
-#EXTINF:-1,24/7 | BEAVIS AND BUTT-HEAD
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6091.m3u8
- 
-#EXTINF:-1,24/7 | BIG BROTHER
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6095.m3u8
- 
-#EXTINF:-1,24/7 | BOB'S BURGERS
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6103.m3u8
- 
-#EXTINF:-1,24/7 | BOJACK HORSEMAN
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6104.m3u8
- 
-#EXTINF:-1,24/7 | BONES
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6105.m3u8
- 
-#EXTINF:-1,24/7 | DEADLIEST CATCH
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6118.m3u8
- 
-#EXTINF:-1,24/7 | DEXTER
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6122.m3u8
- 
-#EXTINF:-1,24/7 | DOPE
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6128.m3u8
- 
-#EXTINF:-1,24/7 | DRUGS INC
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6130.m3u8
- 
-#EXTINF:-1,24/7 | FAMILY GUY
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6139.m3u8
- 
-#EXTINF:-1,24/7 | FBI
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6143.m3u8
- 
-#EXTINF:-1,24/7 | FORGED IN FIRE
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6147.m3u8
- 
-#EXTINF:-1,24/7 | FRINGE
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6150.m3u8
- 
-#EXTINF:-1,24/7 | FUTURAMA
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6151.m3u8
- 
-#EXTINF:-1,24/7 | GAME OF THRONES
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6152.m3u8
- 
-#EXTINF:-1,24/7 | GREY'S ANATOMY
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6162.m3u8
- 
-#EXTINF:-1,24/7 | HANNIBAL
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6164.m3u8
- 
-#EXTINF:-1,24/7 | HAWAII FIVE-0
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6169.m3u8
- 
-#EXTINF:-1,24/7 | HELL ON WHEELS
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6170.m3u8
- 
-#EXTINF:-1,24/7 | HOUSE
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6179.m3u8
- 
-#EXTINF:-1,24/7 | LAW & ORDER
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6194.m3u8
- 
-#EXTINF:-1,24/7 | LAW & ORDER- LOS ANGELES
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6195.m3u8
- 
-#EXTINF:-1,24/7 | LAW & ORDER- SPECIAL VICTIMS UNIT
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6196.m3u8
- 
-#EXTINF:-1,24/7 | LAW & ORDER- TRUE CRIME
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6197.m3u8
- 
-#EXTINF:-1,24/7 | LIVE PD
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6203.m3u8
- 
-#EXTINF:-1,24/7 | LUCIFER
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6214.m3u8
- 
-#EXTINF:-1,24/7 | MARVEL'S AGENT CARTER
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6222.m3u8
- 
-#EXTINF:-1,24/7 | MARVEL'S CLOAK & DAGGER
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6223.m3u8
- 
-#EXTINF:-1,24/7 | MARVEL'S DAREDEVIL
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6224.m3u8
- 
-#EXTINF:-1,24/7 | MARVEL'S INHUMANS
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6225.m3u8
- 
-#EXTINF:-1,24/7 | MARVEL'S IRON FIST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6226.m3u8
- 
-#EXTINF:-1,24/7 | MARVEL'S JESSICA JONES
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6227.m3u8
- 
-#EXTINF:-1,24/7 | MARVEL'S LUKE CAGE
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6228.m3u8
- 
-#EXTINF:-1,24/7 | MARVEL'S THE DEFENDERS
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6229.m3u8
- 
-#EXTINF:-1,24/7 | MONEY HEIST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6238.m3u8
- 
-#EXTINF:-1,24/7 | MYTHBUSTERS
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6243.m3u8
- 
-#EXTINF:-1,24/7 | NARCOS
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6244.m3u8
- 
-#EXTINF:-1,24/7 | NCIS - LOS ANGELES
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6245.m3u8
- 
-#EXTINF:-1,24/7 | ON MY BLOCK
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6248.m3u8
- 
-#EXTINF:-1,24/7 | (KIDS) PINKY AND THE BRAIN
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | (KIDS) PINKY AND THE BRAIN
 http://beastiptv.tv:25461/live/Shauna12/Shauna12/6055.m3u8
- 
-#EXTINF:-1,24/7 | PERSON OF INTEREST
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | 13 REASONS WHY
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6058.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | 2 BROKE GIRLS
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6059.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | AMERICAN DAD!
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6069.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | AMERICAN PICKERS
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6072.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | ANGER MANAGEMENT
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6075.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | ARRESTED DEVELOPEMENT
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6076.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | ASH VS EVIL DEAD
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6077.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | AVATAR THE LAST AIR BENDER
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6079.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | BATES MOTEL
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6085.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | BEAVIS AND BUTT-HEAD
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6091.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | BIG BROTHER
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6095.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | BOB'S BURGERS
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6103.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | BOJACK HORSEMAN
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6104.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | BONES
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6105.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | DEADLIEST CATCH
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6118.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | DEXTER
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6122.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | DOPE
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6128.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | DRUGS INC
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6130.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | FAMILY GUY
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6139.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | FBI
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6143.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | FORGED IN FIRE
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6147.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | FRINGE
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6150.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | FUTURAMA
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6151.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | GAME OF THRONES
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6152.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | GREY'S ANATOMY
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6162.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | HANNIBAL
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6164.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | HAWAII FIVE-0
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6169.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | HELL ON WHEELS
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6170.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | HOUSE
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6179.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | LAW & ORDER
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6194.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | LAW & ORDER- LOS ANGELES
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6195.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | LAW & ORDER- SPECIAL VICTIMS UNIT
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6196.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | LAW & ORDER- TRUE CRIME
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6197.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | LIVE PD
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6203.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | LUCIFER
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6214.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | MARVEL'S AGENT CARTER
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6222.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | MARVEL'S CLOAK & DAGGER
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6223.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | MARVEL'S DAREDEVIL
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6224.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | MARVEL'S INHUMANS
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6225.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | MARVEL'S IRON FIST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6226.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | MARVEL'S JESSICA JONES
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6227.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | MARVEL'S LUKE CAGE
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6228.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | MARVEL'S THE DEFENDERS
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6229.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | MONEY HEIST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6238.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | MYTHBUSTERS
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6243.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | NARCOS
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6244.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | NCIS - LOS ANGELES
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6245.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | ON MY BLOCK
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6248.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | PERSON OF INTEREST
 http://beastiptv.tv:25461/live/Shauna12/Shauna12/6257.m3u8
- 
-#EXTINF:-1,24/7 | PRISON BREAK
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | PRISON BREAK
 http://beastiptv.tv:25461/live/Shauna12/Shauna12/6259.m3u8
- 
-#EXTINF:-1,24/7 | QUANTICO
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | QUANTICO
 http://beastiptv.tv:25461/live/Shauna12/Shauna12/6263.m3u8
- 
-#EXTINF:-1,24/7 | RICK AND MORTY
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | RICK AND MORTY
 http://beastiptv.tv:25461/live/Shauna12/Shauna12/6269.m3u8
- 
-#EXTINF:-1,24/7 | SANTA CLARITA DIET
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | SANTA CLARITA DIET
 http://beastiptv.tv:25461/live/Shauna12/Shauna12/6275.m3u8
- 
-#EXTINF:-1,24/7 | SCORPION
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | SCORPION
 http://beastiptv.tv:25461/live/Shauna12/Shauna12/6276.m3u8
- 
-#EXTINF:-1,24/7 | SEAL TEAM
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | SEAL TEAM
 http://beastiptv.tv:25461/live/Shauna12/Shauna12/6278.m3u8
- 
-#EXTINF:-1,24/7 | SOUTH PARK
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | SOUTH PARK
 http://beastiptv.tv:25461/live/Shauna12/Shauna12/6289.m3u8
- 
-#EXTINF:-1,24/7 | THE MENTALIST
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | THE MENTALIST
 http://beastiptv.tv:25461/live/Shauna12/Shauna12/6306.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | TV FIREPLACE HOLIDAY
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7524.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", A&E
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1256.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", ADULT SWIM
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1257.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", AMC
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1258.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", BET HER
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1268.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", BET JAMS
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1269.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", BET |+|
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1267.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", BRAVO EAST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1272.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", BRAVO WEST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1273.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", CMT
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/4483.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", COMEDY CENTRAL EAST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1405.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", COOKING CHANNEL
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1281.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", DISCOVERY EAST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1289.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", DISCOVERY FAMILY
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1291.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", DISCOVERY LIFE
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1292.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", DISCOVERY SCIENCE
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1293.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", DISCOVERY WEST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1290.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", DIY NETWORK
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1294.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", FOOD NETWORK WEST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1378.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", FREEFORM EAST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1382.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", FREEFORM WEST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1383.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", FX EAST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1387.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", FX WEST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1388.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", GAMESHOW NETWORK
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1392.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", HBO
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/2770.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", HBO 2
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/2772.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", HBO COMEDY
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/2775.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", HBO EAST (SD)
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6007.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", HBO FAMILY
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/2773.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", HBO WEST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/2771.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", HBO WEST (SD)
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6008.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", HBO ZONE
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/2774.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", HISTORY
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1400.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", LIFETIME
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1408.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", LIFETIME MOVIES
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1409.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", MTV CLASSIC
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1416.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", MTV EAST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1413.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", MTV LIVE
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1417.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", THE WEATHER CHANNEL
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1439.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: ANIMAL PLANET EAST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1260.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: ANIMAL PLANET WEST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1261.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: CARTOON NETWORK
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1274.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: CARTOON NETWORK WEST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/4041.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY CHANNEL EAST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1472.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY CHANNEL WEST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1471.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY JR EAST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1473.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY JR WEST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1474.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY XD EAST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1475.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY XD WEST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1476.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: NAT GEO WILD
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1420.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: NATIONAL GEOGRAPHIC
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1419.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: NICK JR EAST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1479.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: NICKELODEON EAST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1477.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: NICKTOONS
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1481.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", 24/7 Hollywood Movies
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", THE MOVIE CHANNEL
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/4061.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", THE MOVIE CHANNEL XTRA
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/5654.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", 15 MINUTES OF WAR
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7554.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", ABOMINABLE
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7525.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", AD ASTRA
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7540.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", AFTER THE WEDDING
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7538.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", ALADDIN
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7555.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", ALITA BATTLE ANGEL
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7563.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", ANNA
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7556.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", AVENGERS ENDGAME
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7545.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", BOY GENIUS
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7546.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", BREAKER
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7569.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", CAN YOU KEEP A SECRET?
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7547.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", CAPTAIN MARVEL
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7559.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", CHILD'S PLAY
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7548.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", DORA AND THE LOST CITY OF GOLD
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7543.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", DOWNTON ABBEY
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7527.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", FAST & FURIOUS PRESENTS HOBBS & SHAW
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7560.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", FIVE FEET APART
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7562.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", FULL COUNT
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7539.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", HER SMELL
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7564.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", HOLIDAY IN THE WILD
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7535.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", HOW TO TRAIN YOUR DRAGON THE HIDDEN WORLD
+http://beastiptv.tv:25461/live/Shauna12/"Shauna12/7565.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", IN DARKNESS
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7566.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", INTO THE ASHES
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7557.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", IRON SKY THE COMING RACE
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7567.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", JOHN WICK 3  PARABELLUM
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7568.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", KLAUS
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7532.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", LEO DA VINCI MISSION MONA LISA
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7570.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", LUCE
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7541.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", MANIKARNIKA THE QUEEN OF JHANSI
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7571.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", MEN IN BLACK INTERNATIONAL
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7572.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", PARADISE HILLS
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7531.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", PARASITE
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7542.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", RADIOFLASH
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7533.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", REIGN OF THE SUPERMEN
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7573.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", SPIDER-MAN: FAR FROM HOME
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7553.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", STUBER
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7550.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", THE ADDAMS
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7526.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", THE ART OF RACING IN THE RAIN
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7551.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", THE CURRENT WAR
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7534.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", THE DEAD CENTER
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7536.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", THE FANATIC
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7528.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", THE KILL TEAM
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7529.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", THE PEANUT BUTTER FALCON
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7552.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", THE RELIANT
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7530.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", TOY STORY 4
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7558.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", MLB NETWORK
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1492.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", NBA 4K+
+http://109.163.232.253:1339/live/eTy6hZZRpX/x5D3IvDe4s/18174.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", NFL NETWORK
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1487.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", OLYMPIC CHANNEL
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1422.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", UFC FIGHT PASS
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1484.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", USA SD: NHL NETWORK
+http://beastiptv.tv:25461/live/jennifer/jennifer/6022.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", WWE NETWORK
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1483.m3u8
+
