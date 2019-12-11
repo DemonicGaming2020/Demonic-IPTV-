@@ -297,6 +297,27 @@ http://xtiptv.xyz:25461/live/farhan1/farhan1/55661.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", THE WEATHER CHANNEL
 http://beastiptv.tv:25461/live/Shauna12/Shauna12/1439.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", MLB NETWORK
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1492.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", NBA 4K+
+http://109.163.232.253:1339/live/eTy6hZZRpX/x5D3IvDe4s/18174.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", NFL NETWORK
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1487.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", OLYMPIC CHANNEL
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1422.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", UFC FIGHT PASS
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1484.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", USA SD: NHL NETWORK
+http://beastiptv.tv:25461/live/jennifer/jennifer/6022.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", WWE NETWORK
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1483.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: ANIMAL PLANET EAST
 http://beastiptv.tv:25461/live/Shauna12/Shauna12/1260.m3u8
 
@@ -486,23 +507,17 @@ http://beastiptv.tv:25461/live/Shauna12/Shauna12/7530.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", TOY STORY 4
 http://beastiptv.tv:25461/live/Shauna12/Shauna12/7558.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", MLB NETWORK
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1492.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Shows", SWAT  | Season 1 | Episode 1
+http://94.130.23.244/TV%20Shows%20A/S.W.A.T/Season%201/S.W.A.T.2017.S01E01.The.Killing.Ground.WEBRip.1080p.DD5.1.H265-d3g.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", NBA 4K+
-http://109.163.232.253:1339/live/eTy6hZZRpX/x5D3IvDe4s/18174.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Shows", SWAT | Season 1 | Episode 2
+http://94.130.23.244/TV%20Shows%20A/S.W.A.T/Season%201/S.W.A.T.2017.S01E02.Cuchillo.WEBRip.1080p.DD5.1.H265-d3g.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", NFL NETWORK
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1487.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Shows", SWAT | Season 1 | Episode 3
+http://94.130.23.244/TV%20Shows%20A/S.W.A.T/Season%201/S.W.A.T.2017.S01E03.Pamilya.WEBRip.1080p.DD5.1.H265-d3g.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", OLYMPIC CHANNEL
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1422.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Shows", SWAT |Season 1 | Episode 4
+http://94.130.23.244/TV%20Shows%20A/S.W.A.T/Season%201/S.W.A.T.2017.S01E04.Radical.WEBRip.1080p.DD5.1.H265-d3g.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", UFC FIGHT PASS
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1484.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", USA SD: NHL NETWORK
-http://beastiptv.tv:25461/live/jennifer/jennifer/6022.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", WWE NETWORK
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1483.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="TV Shows", SWAT | Season 1 | Episode  5
+http://94.130.23.244/TV%20Shows%20A/S.W.A.T/Season%201/S.W.A.T.2017.S01E05.Imposters.WEBRip.1080p.DD5.1.H265-d3g.mp4
