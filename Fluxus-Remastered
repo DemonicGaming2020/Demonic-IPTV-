@@ -14,6 +14,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/5c86b772e7f96a5a929736c0/master.m3u
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c363ac9e41be30cb6054c7c/featuredImage.jpg" group-title="24/7 Pluto", Yu-Gi-Oh! 5D’s
 https://stitcher.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b45b9ea1nuf9ijm985tiag4ge6
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Fast & Furious Presents Hobbs & Shaw
+http://5.39.94.171/Descargas/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.1080p.HC.HDRip.X264.AC3-EVO/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.1080p.HC.HDRip.X264.AC3-EVO.mkv
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8f4fv5U.png" group-title="USA", 24-7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
 
