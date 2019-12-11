@@ -1,7 +1,61 @@
-#EXTM3U
 
-#EXTINF:-1,Fast & Furious Presents Hobbs & Shaw
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Demonics Favs", Baby Driver
+http://ace-net.net/stream/Movies/PublicMovies/Baby%20Driver.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Demonics Favs", Central Intelligence 
+http://ace-net.net/stream/Movies/PublicMovies/Central%20Intelligence.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Demonics Favs", Deadpool
+http://ace-net.net/stream/Movies/PublicMovies/Deadpool.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="A", Ace Ventura - Pet Detective
+http://ace-net.net/stream/Movies/PublicMovies/Ace%20Ventura%20Pet%20Detective.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="A", Ace Ventura - When Nature Calls
+http://ace-net.net/stream/Movies/PublicMovies/Ace%20Ventura%20When%20Nature%20Calls.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="A", American Sniper
+http://ace-net.net/stream/Movies/PublicMovies/American%20Sniper.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="A", Ant-Man
+http://ace-net.net/stream/Movies/PublicMovies/Ant%20Man.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="A", Assassins Creed
+http://ace-net.net/stream/Movies/PublicMovies/Assassins%20Creed.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="B", Baby Driver
+http://ace-net.net/stream/Movies/PublicMovies/Baby%20Driver.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="B", Battle of Los Angeles
+http://ace-net.net/stream/Movies/PublicMovies/Battle%20Los%20Angeles.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="B", Beauty and the Beast (2017)
+http://ace-net.net/stream/Movies/PublicMovies/Beauty%20And%20The%20Beast%202017.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="B", Bruce Almighty
+http://ace-net.net/stream/Movies/PublicMovies/Bruce%20Almighty.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="C", Captain America - Civil War
+http://ace-net.net/stream/Movies/PublicMovies/Captain%20America%20Civil%20War.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="C", Captain Marvel
+http://ace-net.net/stream/Movies/PublicMovies/Captain%20Marvel.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="C", Central Intelligence
+http://ace-net.net/stream/Movies/PublicMovies/Central%20Intelligence.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="C", Cheech and Chong - Up in Smoke
+http://ace-net.net/stream/Movies/PublicMovies/Cheech%20and%20Chong%20Up%20in%20Smoke.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="D", Deadpool
+http://ace-net.net/stream/Movies/PublicMovies/Deadpool.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="D", Die Hard
+http://ace-net.net/stream/Movies/PublicMovies/Die%20Hard.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="F", F&F Presents Hobbs & Shaww
 http://5.39.94.171/Descargas/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.1080p.HC.HDRip.X264.AC3-EVO/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.1080p.HC.HDRip.X264.AC3-EVO.mkv
 
-#EXTINF:-1,IT Chapter Two
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="I", IT - Chapter Two
 http://5.39.94.171/Descargas/It.Chapter.Two.2019.1080p.HC.HDRip.X264.AC3-EVO/It.Chapter.Two.2019.1080p.HC.HDRip.X264.AC3-EVO.mkv
