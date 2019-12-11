@@ -1,4 +1,4 @@
-<#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 Channels", 24/7 | (KIDS) ADVENTURE TIME
 http://beastiptv.tv:25461/live/Shauna12/Shauna12/6053.m3u8
 
@@ -290,6 +290,10 @@ http://beastiptv.tv:25461/live/Shauna12/Shauna12/1413.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", MTV LIVE
 http://beastiptv.tv:25461/live/Shauna12/Shauna12/1417.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", SPIKE HD
+#EXTINF:-1,US: SPIKE HD
+http://xtiptv.xyz:25461/live/farhan1/farhan1/55661.ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", THE WEATHER CHANNEL
 http://beastiptv.tv:25461/live/Shauna12/Shauna12/1439.m3u8
 
@@ -502,4 +506,3 @@ http://beastiptv.tv:25461/live/jennifer/jennifer/6022.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", WWE NETWORK
 http://beastiptv.tv:25461/live/Shauna12/Shauna12/1483.m3u8
-
