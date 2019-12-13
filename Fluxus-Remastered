@@ -388,7 +388,7 @@ http://beastiptv.tv:25461/live/Shauna12/Shauna12/7532.m3u8
 http://beastiptv.tv:25461/live/Shauna12/Shauna12/7558.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", 8 Mile
-
+http://130.185.144.102/Movies/8%20Mile.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", 3 Ninjas
 http://130.185.144.102/Movies/3%20Ninjas.mp4
