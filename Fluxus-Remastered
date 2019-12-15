@@ -387,56 +387,8 @@ http://beastiptv.tv:25461/live/Shauna12/Shauna12/7532.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids Movies", TOY STORY 4
 http://beastiptv.tv:25461/live/Shauna12/Shauna12/7558.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", 8 Mile
-http://130.185.144.102/Movies/8%20Mile.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", 3 Ninjas
-http://130.185.144.102/Movies/3%20Ninjas.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", 3 Ninjas Kick Back
-http://130.185.144.102/Movies/3%20Ninjas%20Kick%20Back.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", 3 Ninjas Knuckle Up
-http://130.185.144.102/Movies/3%20Ninjas%20Knuckle%20Up.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", 300
-http://130.185.144.102/Movies/300.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", 300 Raise of an Empire
-http://130.185.144.102/Movies/300%20Rise%20of%20an%20Empire.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", 22 Jump Street
-http://130.185.144.102/Movies/22%20Jump%20Street.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", A Cinderella Story Christmas Wish
-http://62-210-100-53.rev.poneytelecom.eu/2019/A%20Cinderella%20Story%20Christmas%20Wish%20%5b2019%5d%5bfilm%5d.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", A Good Way to Die Hard
-http://130.185.144.102/Movies/A%20Good%20Day%20to%20Die%20Hard.mp4
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", A Guide to Second Date Sex
 http://62-210-100-53.rev.poneytelecom.eu/2019/A%20Guide%20to%20Second%20Date%20Sex%20%5b2019%5d%5bfilm%5d.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", A Haunting at Silver Falls - The Return
-http://62-210-100-53.rev.poneytelecom.eu/2019/A%20Haunting%20at%20Silver%20Falls%20The%20Return%20%5b2019%5d%5bfilm%5d.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", A Madea Family Funeral
-http://62-210-100-53.rev.poneytelecom.eu/2019/A%20Madea%20Family%20Funeral%20%5b2019%5d%5bfilm%5d.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Ace Ventura - Pet Detective
-http://ace-net.net/stream/Movies/PublicMovies/Ace%20Ventura%20Pet%20Detective.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Ace Ventura - When Nature Calls
-http://ace-net.net/stream/Movies/PublicMovies/Ace%20Ventura%20When%20Nature%20Calls.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Along Came the Devil 2
-http://62-210-100-53.rev.poneytelecom.eu/2019/Along%20Came%20the%20Devil%202%20%5b2019%5d%5bfilm%5d.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", American Sniper
-http://ace-net.net/stream/Movies/PublicMovies/American%20Sniper.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", An Affair to Die For
-http://62-210-100-53.rev.poneytelecom.eu/2019/An%20Affair%20to%20Die%20For%20%5b2019%5d%5bfilm%5d.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Annabelle
 http://mysxteam.com/GudangMovie/English/Annabelle/Annabelle%20(2014)%20.mp4
@@ -447,68 +399,29 @@ http://mysxteam.com/GudangMovie/English/Annabelle/Annabelle%20-%20Creation%20(20
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Annabelle Comes Home
 http://178.162.145.97/publicDL/Movies/Annabelle.Comes.Home.2019.720p.KORSUB.HDRip.XviD.MP3-STUTTERSHIT.avi
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Ant-Man
-http://ace-net.net/stream/Movies/PublicMovies/Ant%20Man.mp4
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Ant-Man and the Wasp
 http://178.162.145.97/publicDL/Movies/Ant.Man.and.the.Wasp.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Assassins Creed
-http://ace-net.net/stream/Movies/PublicMovies/Assassins%20Creed.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Avengers (2012)
 http://178.162.145.97/publicDL/Movies/The.Avengers.2012.1080p.BluRay.H264.ACC.5.1.BADASSMEDIA.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Avengers Age of Ultron
-http://178.162.145.97/publicDL/Movies/Avengers.Age.of.Ultron.2015.1080p.265.mkv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Avengers - End Game
+http://178.162.145.97/publicDL/Movies/Avengers.Endgame.2019.1080p.WEBRip.x264.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Avengers - Infinity Wars
 http://178.162.145.97/publicDL/Movies/Avengers.Infinity.War.2018.1080p.WEBRip.x264-%5bYTS.AM%5d.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Avengers - End Game
-http://178.162.145.97/publicDL/Movies/Avengers.Endgame.2019.1080p.WEBRip.x264.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Baby Driver
-http://ace-net.net/stream/Movies/PublicMovies/Baby%20Driver.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Bad Boys
-http://130.185.144.102/Movies/Bad%20Boys.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Bad Boys 2
-http://130.185.144.102/Movies/Bad%20Boys%20II.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Battle of Los Angeles
-http://ace-net.net/stream/Movies/PublicMovies/Battle%20Los%20Angeles.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Beauty and the Beast (2017)
-http://ace-net.net/stream/Movies/PublicMovies/Beauty%20And%20The%20Beast%202017.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Better Than Love
-http://62-210-100-53.rev.poneytelecom.eu/2019/Better.Than.Love%20%5b2019%5d%5bfilm%5d.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Avengers Age of Ultron
+http://178.162.145.97/publicDL/Movies/Avengers.Age.of.Ultron.2015.1080p.265.mkv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Black Panther
 http://178.162.145.97/publicDL/Movies/Black.Panther.2018.1080p.BluRay.x264.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Bruce Almighty
-http://ace-net.net/stream/Movies/PublicMovies/Bruce%20Almighty.mp4
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Captain America - The First Avenger
 http://178.162.145.97/publicDL/Movies/Captain.America.The%20First%20Avenger.2011.1080p.BluRay.AC3.X264-ETRG.mkv
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Captain America - Civil War
-http://ace-net.net/stream/Movies/PublicMovies/Captain%20America%20Civil%20War.mp4
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Captain America - The Winter Soldier
 http://178.162.145.97/publicDL/Movies/Captain.America.The.Winter.Soldier.2014.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Captain Black
-http://62-210-100-53.rev.poneytelecom.eu/2019/Captain%20Black%20%5b2019%5d%5bfilm%5d.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Captain Marvel
-http://ace-net.net/stream/Movies/PublicMovies/Captain%20Marvel.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Central Intelligence
-http://ace-net.net/stream/Movies/PublicMovies/Central%20Intelligence.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Cheech and Chong - Up in Smoke
 http://ace-net.net/stream/Movies/PublicMovies/Cheech%20and%20Chong%20Up%20in%20Smoke.mp4
@@ -531,11 +444,11 @@ http://ace-net.net/stream/Movies/PublicMovies/Die%20Hard.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Die Hard 2
 http://ace-net.net/stream/Movies/PublicMovies/Die%20Hard%202.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Die Hard with a Vengeance
-http://ace-net.net/stream/Movies/PublicMovies/Die%20Hard%20With%20a%20Vengeance.mp4
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Die Hard 4
 http://ace-net.net/stream/Movies/PublicMovies/Die%20Hard%204.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Die Hard with a Vengeance
+http://ace-net.net/stream/Movies/PublicMovies/Die%20Hard%20With%20a%20Vengeance.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Dr.  Strange
 http://ace-net.net/stream/Movies/PublicMovies/Doctor%20Strange.mp4
@@ -567,8 +480,8 @@ http://mysxteam.com/GudangMovie/English/Fast%20and%20Furious/Furious%207%20(2015
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Fast & Furious 8
 http://mysxteam.com/GudangMovie/English/Fast%20and%20Furious/Fast%20&%20Furious%208%20(2017)%20.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", F&F Presents Hobbs & Shaww
-http://5.39.94.171/Descargas/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.1080p.HC.HDRip.X264.AC3-EVO/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.1080p.HC.HDRip.X264.AC3-EVO.mkv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Fast and Furious 9
+http://54.39.19.165/Movies1/T/The%20Fast%20and%20the%20Furious%2009%20%282019%29.mkv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Guardians of the Galaxy Vol. I
 http://178.162.145.97/publicDL/Movies/Guardians.of.the.Galaxy.2014.1080p.BluRay.x264.YIFY.mp4
@@ -576,20 +489,8 @@ http://178.162.145.97/publicDL/Movies/Guardians.of.the.Galaxy.2014.1080p.BluRay.
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Guardians of the Galaxy Vol. II
 http://ace-net.net/stream/Movies/PublicMovies/Guardians%20of%20the%20Galaxy%20Vol.2.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Happy Death Day 2 U
-http://62-210-100-53.rev.poneytelecom.eu/2019/Happy%20Death%20Day%202U%20%5b2019%5d%5bfilm%5d.mp4
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Harry Potter and the Chamber of Secrets
 http://ace-net.net/stream/Movies/PublicMovies/Harry%20Potter%20Chamber%20Of%20Secrets.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Harry Potter and the Prisoner of Azkaban
-http://ace-net.net/stream/Movies/PublicMovies/Harry%20Potter%20Prisoner%20Of%20Azkaban.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Harry Potter and the Goblet of Fire
-http://ace-net.net/stream/Movies/PublicMovies/Harry%20Potter%20Goblet%20Of%20Fire.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Harry Potter and the Order of the Phoenix
-http://ace-net.net/stream/Movies/PublicMovies/Harry%20Potter%20Order%20Of%20The%20Phoenix.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Harry Potter and the Half Blood Prince
 http://ace-net.net/stream/Movies/PublicMovies/Harry%20Potter%20Half%20Blood%20Prince.mp4
@@ -633,18 +534,6 @@ http://178.162.145.97/publicDL/Movies/Iron.Man.2.2010.1080p.BrRip.x264.YIFY.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Iron Man 3
 http://ace-net.net/stream/Movies/PublicMovies/Iron%20Man%203.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", IT - Chapter Two
-http://5.39.94.171/Descargas/It.Chapter.Two.2019.1080p.HC.HDRip.X264.AC3-EVO/It.Chapter.Two.2019.1080p.HC.HDRip.X264.AC3-EVO.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Jeff Dunham - All Over the Map
-http://ace-net.net/stream/Movies/PublicMovies/Jeff%20Dunham%20-%20All%20Over%20the%20Map.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Jeff Dunham - Controlled Chaos
-http://ace-net.net/stream/Movies/PublicMovies/Jeff%20Dunham%20-%20Controlled%20Chaos.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Jeff Dunham - Spark of Insanity
-http://ace-net.net/stream/Movies/PublicMovies/Jeff%20Dunham%20-%20Spark%20Of%20Insanity.mp4
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", John Wick
 http://mysxteam.com/GudangMovie/English/J.Wick/John%20Wick%20(2014)%20.mp4
 
@@ -663,11 +552,20 @@ http://178.162.145.97/publicDL/Movies/Kill.Bill.Vol.2.2004.1080p.BluRay.10bit.HE
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", King Arthur Legend of the Sword
 http://178.162.145.97/publicDL/Movies/King.Arthur.Legend.of.the.Sword.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Lego Movie 2
+http://dl3.haylimoviez.info/Movie%202019/The.Lego.Movie.2.The.Second.Part.2019.480p.WEB-DL.mkv
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Logan (2017)
 http://178.162.145.97/publicDL/Movies/Logan.2017.1080p.BluRay.x264.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Marriage Story
-http://62-210-100-53.rev.poneytelecom.eu/2019/Marriage%20Story%20%5b2019%5d%5bfilm%5d.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Matrix
+http://54.39.19.165/Movies1/T/The%20Matrix%20%281999%29.mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Matrix - Reloaded 
+http://54.39.19.165/Movies1/T/The%20Matrix%20Reloaded%20%282003%29.mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Matrix - Revolutions
+http://54.39.19.165/Movies1/T/The%20Matrix%20Revolutions%20%282003%29.mkv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Men in Black
 http://ace-net.net/stream/Movies/PublicMovies/Men%20In%20Black.mp4
@@ -679,43 +577,22 @@ http://ace-net.net/stream/Movies/PublicMovies/Men%20In%20Black%202.mp4
 http://ace-net.net/stream/Movies/PublicMovies/Men%20in%20Black%203.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Men in Black - International
-http://62-210-100-53.rev.poneytelecom.eu/2019/Men%20in%20Black%20International%20%5b2019%5d%5bfilm%5d.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Mr. & Mrs. Smith
-http://ace-net.net/stream/Movies/PublicMovies/Mr%20and%20Mrs%20Smith.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Need for Speed
-http://ace-net.net/stream/Movies/PublicMovies/Need%20for%20Speed.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Now you See Me
-http://ace-net.net/stream/Movies/PublicMovies/Now%20You%20See%20Me.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Pacific Rim
-http://ace-net.net/stream/Movies/PublicMovies/Pacific%20Rim.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Pacific Rim - Uprising
-http://ace-net.net/stream/Movies/PublicMovies/Pacific%20Rim%20Uprising.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Pirates of the Caribbean - Dead Mans Chest
-http://ace-net.net/stream/Movies/PublicMovies/Pirates%20Of%20The%20Caribbean%20-%20Dead%20Mans%20Chest.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Pirates of the Caribbean - Dead Men Tell No Tales
-http://ace-net.net/stream/Movies/PublicMovies/Pirates%20Of%20The%20Caribbean%20Dead%20Men%20Tell%20No%20Tales.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Pirates of the Caribbean - On Stranger Tides
-http://ace-net.net/stream/Movies/PublicMovies/Pirates%20Of%20The%20Caribbean%20-%20On%20Stranger%20Tides.mp4
+http://dl3.haylimoviez.info/Movie%202019/Men.in.Black.International.2019.1080p.HC.HDRip.MkvCage.mkv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Pirates of the Caribbean - The Curses of the Black Pearl
 http://ace-net.net/stream/Movies/PublicMovies/Pirates%20Of%20The%20Caribbean%20-%20The%20Cures%20of%20the%20Black%20Pearl.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Pokemon - Pikachu Pet Detective
+http://dl3.haylimoviez.info/Movie%202019/Pokemon.Detective.Pikachu.2019.720p.6CH.RARBG.mkv
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Resident Evil
 http://mysxteam.com/GudangMovie/English/Resident%20Evil/Resident%20Evil%20(2002)%20.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Resident Evil 2 - Apocalypse
-http://mysxteam.com/GudangMovie/English/Resident%20Evil/Resident%20Evil%202%20-%20Apocalypse%20(2004)%20.mp4
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Resident Evil - Afterlife
 http://mysxteam.com/GudangMovie/English/Resident%20Evil/Resident%20Evil%204%20-%20Afterlife%20(2010)%20.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Resident Evil 2 - Apocalypse
+http://mysxteam.com/GudangMovie/English/Resident%20Evil/Resident%20Evil%202%20-%20Apocalypse%20(2004)%20.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Resident Evil - Extinction
 http://mysxteam.com/GudangMovie/English/Resident%20Evil/Resident%20Evil%203%20-%20Extinction%20(2007)%20.mp4
@@ -738,11 +615,8 @@ http://mysxteam.com/GudangMovie/English/Marvel/Spider-Man/Spider-Man%202%20(2004
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Spiderman 3
 http://mysxteam.com/GudangMovie/English/Marvel/Spider-Man/Spider-Man%203%20(2007)%20.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", The Amazing Spiderman
-http://mysxteam.com/GudangMovie/English/Marvel/Spider-Man/The%20Amazing%20Spider-Man%20(2012)%20.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", The Amazing Spiderman 2
-http://mysxteam.com/GudangMovie/English/Marvel/Spider-Man/The%20Amazing%20Spider-Man%202%20(2014)%20.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Spiderman - Far From Home
+http://178.162.145.97/publicDL/Movies/Spider-Man.Far.From.Home.2019.1080p.WEBRip.x264.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Spiderman - Into the Spider-Verse
 http://178.162.145.97/publicDL/Movies/Spider-Man.Into.the.Spider-Verse.2018.720p.BluRay.H264.AAC-RARBG.mp4
@@ -750,20 +624,71 @@ http://178.162.145.97/publicDL/Movies/Spider-Man.Into.the.Spider-Verse.2018.720p
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Spiderman - Homecoming
 http://178.162.145.97/publicDL/Movies/Spider-Man.Homecoming.2017.1080p.BluRay.x264.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Spiderman - Far From Home
-http://178.162.145.97/publicDL/Movies/Spider-Man.Far.From.Home.2019.1080p.WEBRip.x264.mp4
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Suicide Squad
 http://178.162.145.97/publicDL/Movies/Suicide.Squad.2016.1080p.BluRay.x264.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Taken
+http://54.39.19.165/Movies1/T/Taken%20%282008%29.mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Taken 2
+http://54.39.19.165/Movies1/T/Taken%202%20%282012%29.mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Taken 3
+http://54.39.19.165/Movies1/T/Taken%203%20%282015%29.mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Ted
+http://54.39.19.165/Movies1/T/TED%20%282012%29.mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Ted 2
+http://54.39.19.165/Movies1/T/Ted%202%20%282015%29.mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", The Adams Family
+http://54.39.19.165/Movies1/T/The%20Addams%20Family%20%281991%29.mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", The Adams Family 2
+http://54.39.19.165/Movies1/T/The%20Addams%20Family%202%20%281993%29.mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", The Amazing Spiderman
+http://mysxteam.com/GudangMovie/English/Marvel/Spider-Man/The%20Amazing%20Spider-Man%20(2012)%20.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", The Amazing Spiderman 2
+http://mysxteam.com/GudangMovie/English/Marvel/Spider-Man/The%20Amazing%20Spider-Man%202%20(2014)%20.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", The Purge
+http://54.39.19.165/Movies1/T/The%20Purge%20%282013%29.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", The Purge - Anarchy
+http://54.39.19.165/Movies1/T/The%20Purge%20Anarchy%20%282014%29.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", The Purge - The Election Year
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", The Secret Life of Pets 2
+http://54.39.19.165/Movies1/T/The%20Secret%20Life%20of%20Pets%202%20%282019%29.mkv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Thor
 http://178.162.145.97/publicDL/Movies/Thor.2011.1080p.BrRip.x264.YIFY+HI.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Thor - Ragnarok
+http://178.162.145.97/publicDL/Movies/Thor.Ragnarok.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Thor - The Dark World
 http://178.162.145.97/publicDL/Movies/Thor.The.Dark.World.2013.1080p.BluRay.x264.YIFY.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Thor - Ragnarok
-http://178.162.145.97/publicDL/Movies/Thor.Ragnarok.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Twighlight
+http://54.39.19.165/Movies1/T/Twilight%20%282008%29.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Twighlight - Breaking Dawn (Part 1)
+http://54.39.19.165/Movies1/T/The%20Twilight%20Saga%20Breaking%20Dawn%20-%20Part%201%20%282011%29.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Twighlight - Breaking Dawn (Part 2)
+http://54.39.19.165/Movies1/T/The%20Twilight%20Saga%20Breaking%20Dawn%20-%20Part%202%20%282012%29.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Twighlight - Eclipse 
+http://54.39.19.165/Movies1/T/The%20Twilight%20Saga%20Eclipse%20%282010%29.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Twighlight - New Moon
+http://54.39.19.165/Movies1/T/The%20Twilight%20Saga%20New%20Moon%20%282009%29.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Venom
 http://mysxteam.com/GudangMovie/English/Marvel/Venom%20(2018)%20.mp4
@@ -774,9 +699,6 @@ http://178.162.145.97/publicDL/Movies/Wonder.Woman.2017.1080p.BluRay.x264.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", X-Men
 http://178.162.145.97/publicDL/Movies/X-Men.2000.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", X-Men 2
-http://178.162.145.97/publicDL/Movies/X-Men.2.2003.1080p.BrRip.x264.YIFY.mp4
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", X-Men - Apocalypse
 http://178.162.145.97/publicDL/Movies/X-Men.Apocalypse.2016.1080p.BluRay.x264.mp4
 
@@ -786,14 +708,17 @@ http://mysxteam.com/GudangMovie/English/Marvel/X%20men/X%20Men%20Dark%20Phoenix%
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", X-Men - First Class
 http://178.162.145.97/publicDL/Movies/X-Men.First.Class.2011.1080p.BrRip.x264.YIFY+HI.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", X-Men Days of Future Past
-http://178.162.145.97/publicDL/Movies/X-Men.Days.of.Future.Past.2014.The.Rogue.Cut.1080p.BluRay.AC3.x264-ETRG.mkv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", X-Men - Origins of Wolverine
+http://178.162.145.97/publicDL/Movies/X-Men.Origins.Wolverine.2009.1080p.BrRip.x264.YIFY.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", X-Men - The Last Stand
 http://178.162.145.97/publicDL/Movies/X-Men.The.Last.Stand.2006.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", X-Men - Origins of Wolverine
-http://178.162.145.97/publicDL/Movies/X-Men.Origins.Wolverine.2009.1080p.BrRip.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", X-Men 2
+http://178.162.145.97/publicDL/Movies/X-Men.2.2003.1080p.BrRip.x264.YIFY.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", X-Men Days of Future Past
+http://178.162.145.97/publicDL/Movies/X-Men.Days.of.Future.Past.2014.The.Rogue.Cut.1080p.BluRay.AC3.x264-ETRG.mkv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", MLB NETWORK
 http://beastiptv.tv:25461/live/Shauna12/Shauna12/1492.m3u8
