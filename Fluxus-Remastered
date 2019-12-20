@@ -60,12 +60,6 @@ http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png" group-title="24/7", Williams Stream (Geo)
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Your_Pretty_Face_is_Going_to_Hell.png" group-title="24/7", Your Pretty Face (Geo)
-https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c363ac9e41be30cb6054c7c/featuredImage.jpg" group-title="24/7", Yu-Gi-Oh! 5D’s
-https://stitcher.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b45b9ea1nuf9ijm985tiag4ge6
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c363ac9e41be30cb6054c7c/featuredImage.jpg" group-title="24/7", Yu-Gi-Oh! 5D’s
 https://stitcher.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b45b9ea1nuf9ijm985tiag4ge6
 
@@ -153,20 +147,11 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/12
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="Channels", American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wwwimage-secure.cbsstatic.com/thumbnails/photos/w1200-h630-c1200:630/blog/87fdad6e1b37da4a_cbs_sports_hq_1920.jpg" group-title="Channels", CBS Sports HQ (Geo)
-https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Charge%21_network_logo.png" group-title="Channels", Charge! (Geo)
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ZIZZG8v.png" group-title="Channels", Comet TV (Geo)
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/nGIOiF6.png" group-title="Channels", Discovery Velocity (Geo)
-http://195.181.169.148/Discovery_velocity_121_Eng/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Channels", Food Network (Geo)
-http://195.181.169.148/FOODNETHD_USA_Eng/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/dfaJpw4.png" group-title="Channels", Hallmark Movies & Mysteries (Geo)
 http://crownmediaingest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3053348551~acl=/*~hmac=592bc88702cf4f549f6fa1233adcf78fdff0209e062d72a244dce61650291d26
@@ -185,27 +170,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="Channels", National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/800px-OWN_2011_logo.svg.png" group-title="Channels", Oprah Winfrey Network (Opt-1) (Geo)
-http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/2596k/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/800px-OWN_2011_logo.svg.png" group-title="Channels", Oprah Winfrey Network (Opt-2) (Geo)
-http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.lagovista.lib.tx.us/PBS%20Kids.jpg/@@images/image.jpeg" group-title="Channels", PBS Kids (EST) (Geo)
-http://live-cdn.pbskids.org/out/u/est.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.lagovista.lib.tx.us/PBS%20Kids.jpg/@@images/image.jpeg" group-title="Channels", PBS Kids (Geo)
-http://live-cdn.pbskids.org/out/u/aim/wttw.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.lagovista.lib.tx.us/PBS%20Kids.jpg/@@images/image.jpeg" group-title="Channels", PBS Kids (PST) (Geo)
-http://live-cdn.pbskids.org/out/u/pst.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="Channels", Sony Movie Channel (Geo)
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.scribblrs.com/wp-content/uploads/2017/07/tbs.png" group-title="Channels", TBS (Geo)
-http://195.181.169.148/TBS_Eng/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1024px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Channels", The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
