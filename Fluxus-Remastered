@@ -327,66 +327,6 @@ http://beastiptv.tv:25461/live/Shauna12/Shauna12/5654.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Channels", THE WEATHER CHANNEL
 http://beastiptv.tv:25461/live/Shauna12/Shauna12/1439.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", 24/7 | (KIDS) ADVENTURE TIME
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6053.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", 24/7 | (KIDS) PINKY AND THE BRAIN
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6055.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: ANIMAL PLANET EAST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1260.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: ANIMAL PLANET WEST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1261.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: CARTOON NETWORK
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1274.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: CARTOON NETWORK WEST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/4041.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY CHANNEL EAST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1472.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY CHANNEL WEST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1471.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY JR EAST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1473.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY JR WEST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1474.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY XD EAST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1475.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY XD WEST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1476.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: NAT GEO WILD
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1420.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: NATIONAL GEOGRAPHIC
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1419.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: NICK JR EAST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1479.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: NICKELODEON EAST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1477.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: NICKTOONS
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1481.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids Movies", ALADDIN
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/7555.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids Movies", KLAUS
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/7532.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids Movies", TOY STORY 4
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/7558.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", A Guide to Second Date Sex
 http://62-210-100-53.rev.poneytelecom.eu/2019/A%20Guide%20to%20Second%20Date%20Sex%20%5b2019%5d%5bfilm%5d.mp4
 
@@ -419,6 +359,9 @@ http://178.162.145.97/publicDL/Movies/Avengers.Age.of.Ultron.2015.1080p.265.mkv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Black Panther
 http://178.162.145.97/publicDL/Movies/Black.Panther.2018.1080p.BluRay.x264.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Blood and Bone
+http://dasti.persiangig.com/video/Blood.and.Bone.2009.BluRay.720p%20%20%5bviva%20movie%5d.mkv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Captain America - The First Avenger
 http://178.162.145.97/publicDL/Movies/Captain.America.The%20First%20Avenger.2011.1080p.BluRay.AC3.X264-ETRG.mkv
@@ -744,27 +687,63 @@ http://beastiptv.tv:25461/live/Shauna12/Shauna12/1422.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", UFC FIGHT PASS
 http://beastiptv.tv:25461/live/Shauna12/Shauna12/1484.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8f4fv5U.png" group-title="USA", 24-7 Retro TV
-http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", 24/7 | (KIDS) ADVENTURE TIME
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6053.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="USA", Its at the movies
-https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", 24/7 | (KIDS) PINKY AND THE BRAIN
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/6055.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="USA", 30A Music
-http://30a-tv.com/music.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: ANIMAL PLANET EAST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1260.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="USA", Court TV
-https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: ANIMAL PLANET WEST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1261.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="USA", Disney Jr. 
-https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: CARTOON NETWORK
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1274.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="USA", Fail Army
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: CARTOON NETWORK WEST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/4041.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/AHmnFAw.png" group-title="USA", Fashion Channel
-https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY CHANNEL EAST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1472.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/3A3NAWZ.png" group-title="USA", Hallmark Movies & Mysteries
-https://fluxustv.blogspot.com@bit.ly/2qmcmcG?.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY CHANNEL WEST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1471.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY JR EAST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1473.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY JR WEST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1474.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY XD EAST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1475.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY XD WEST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1476.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: NAT GEO WILD
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1420.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: NATIONAL GEOGRAPHIC
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1419.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: NICK JR EAST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1479.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: NICKELODEON EAST
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1477.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: NICKTOONS
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/1481.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids Movies", ALADDIN
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7555.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids Movies", KLAUS
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7532.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids Movies", TOY STORY 4
+http://beastiptv.tv:25461/live/Shauna12/Shauna12/7558.m3u8
 
