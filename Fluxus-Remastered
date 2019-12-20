@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/4cc90abe-fdfa-a008-eaf5-d1e508a0cd5a-4kTV_hero.jpg" group-title="24/7", 4K TV
 http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
@@ -147,38 +148,68 @@ http://mysxteam.com/GudangMovie/English/Marvel/Spider-Man/The%20Amazing%20Spider
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Venom
 http://mysxteam.com/GudangMovie/English/Marvel/Venom%20(2018)%20.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty", Season 1 | Episode 1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty S1", Season 1 | Episode 1
 https://torrent.teethy.ca/files/video/Rick%20&%20Morty/Season%201/Rick%20&%20Morty%20Episode%2001%20-%20Pilot%20(2013).mkv
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty", Season 1 I Episode 2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty S1", Season 1 I Episode 2
 https://torrent.teethy.ca/files/video/Rick%20&%20Morty/Season%201/Rick%20&%20Morty%20Episode%2002%20-%20Lawnmower%20Dog%20(2013).mkv
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty", Season 1 | Episode 3
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty S1", Season 1 | Episode 3
 https://torrent.teethy.ca/files/video/Rick%20&%20Morty/Season%201/Rick%20&%20Morty%20Episode%2003%20-%20Anatomy%20Park%20(2013).mkv
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty", Season 1 I Episode 4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty S1", Season 1 I Episode 4
 https://torrent.teethy.ca/files/video/Rick%20&%20Morty/Season%201/Rick%20&%20Morty%20Episode%2004%20-%20%20M.%20Night%20Shaym-Aliens%20(2014).mkv
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty", Season 1 I Episode 5
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty S1", Season 1 I Episode 5
 https://torrent.teethy.ca/files/video/Rick%20&%20Morty/Season%201/Rick%20&%20Morty%20Episode%2005%20-%20Meeseeks%20and%20Destroy%20(2014).mkv
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty", Season 1 I Episode 6
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty S1", Season 1 I Episode 6
 https://torrent.teethy.ca/files/video/Rick%20&%20Morty/Season%201/Rick%20&%20Morty%20Episode%2006%20-%20Rick%20Potion%20%239%20(2014).mkv
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty", Season 1 | Episode 7
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty S1", Season 1 | Episode 7
 https://torrent.teethy.ca/files/video/Rick%20&%20Morty/Season%201/Rick%20&%20Morty%20Episode%2007%20-%20Raising%20Gazorpazorp%20(2014).mkv
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty", Season 1 I Episode 8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty S1", Season 1 I Episode 8
 https://torrent.teethy.ca/files/video/Rick%20&%20Morty/Season%201/Rick%20&%20Morty%20Episode%2008%20-%20Rixty%20Minutes%20(2014).mkv
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty", Season 1 I Episode 9
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty S1", Season 1 I Episode 9
 https://torrent.teethy.ca/files/video/Rick%20&%20Morty/Season%201/Rick%20&%20Morty%20Episode%2009%20-%20Something%20Ricked%20(2014).mkv
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty", Season 1 I Episode 10
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty S1", Season 1 I Episode 10
 https://torrent.teethy.ca/files/video/Rick%20&%20Morty/Season%201/Rick%20&%20Morty%20Episode%2010%20-%20Close%20Rick-counters%20of%20the%20Rick%20Kind%20(2014).mkv
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty", Season 1 I Episode 11
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty S1", Season 1 I Episode 11
 https://torrent.teethy.ca/files/video/Rick%20&%20Morty/Season%201/Rick%20&%20Morty%20Episode%2011%20-%20Ricksy%20Business%20(2014).mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty S1", Season 2 | Episode 1
+https://torrent.teethy.ca/files/video/Rick%20&%20Morty/Season%202/Rick%20&%20Morty%20Episode%2001%20-%20A%20Rickle%20in%20Time%20(2015).mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty S1", Season 2 | Episode 2
+https://torrent.teethy.ca/files/video/Rick%20&%20Morty/Season%202/Rick%20&%20Morty%20Episode%2002%20-%20Mortynight%20Run%20(2015).mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty S1", Season 2 | Episode 3
+https://torrent.teethy.ca/files/video/Rick%20&%20Morty/Season%202/Rick%20&%20Morty%20Episode%2003%20-%20Auto%20Erotic%20Assimilation%20(2015).mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty S1", Season 2 | Episode 4
+https://torrent.teethy.ca/files/video/Rick%20&%20Morty/Season%202/Rick%20&%20Morty%20Episode%2004%20-%20Total%20Rickall%20(2015).mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty S1", Season 2 | Episode 5
+https://torrent.teethy.ca/files/video/Rick%20&%20Morty/Season%202/Rick%20&%20Morty%20Episode%2005%20-%20Get%20Schwifty%20(2015).mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty S1", Season 2 | Episode 6
+https://torrent.teethy.ca/files/video/Rick%20&%20Morty/Season%202/Rick%20&%20Morty%20Episode%2006%20-%20The%20Ricks%20Must%20Be%20Crazy%20(2015).mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty S1", Season 2 | Episode 7
+https://torrent.teethy.ca/files/video/Rick%20&%20Morty/Season%202/Rick%20&%20Morty%20Episode%2007%20-%20Big%20Trouble%20In%20Little%20Sanchez%20(2015).mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty S1", Season 2 | Episode 8
+https://torrent.teethy.ca/files/video/Rick%20&%20Morty/Season%202/Rick%20&%20Morty%20Episode%2008%20-%20Interdimensional%20Cable%202%20Tempting%20Fate%20(2015).mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty S1", Season 2 | Episode 10
+https://torrent.teethy.ca/files/video/Rick%20&%20Morty/Season%202/Rick%20&%20Morty%20Episode%2010%20-%20The%20Wedding%20Squanchers%20(2015).mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rick & Morty S2", 10
+https://torrent.teethy.ca/files/video/Rick%20&%20Morty/Season%202/Rick%20&%20Morty%20Episode%2010%20-%20The%20Wedding%20Squanchers%20(2015).mkv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="Channels", America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
