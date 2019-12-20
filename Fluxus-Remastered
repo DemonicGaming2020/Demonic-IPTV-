@@ -1,97 +1,79 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/554158e864526b29254ff105/featuredImage.jpg" group-title="24/7 Pluto", Fail Army
-http://stitcher.pluto.tv/stitch/hls/channel/554158e864526b29254ff105/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/4cc90abe-fdfa-a008-eaf5-d1e508a0cd5a-4kTV_hero.jpg" group-title="24/7", 4K TV
+http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bee1a7359ee03633e780238/featuredImage.jpg" group-title="24/7 Pluto", Dog the Bounty Hunter
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" group-title="24/7", Action Movies
+http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Music69/v4/6a/67/f8/6a67f8ab-04d6-8fe6-fb8f-9b0c6e34a34e/source/1200x630bb.jpg" group-title="24/7", Aqua Teen Hunger Force (Geo)
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca670f6593a5d78f0e85aed/featuredImage.jpg" group-title="24/7", BET
+https://stitcher.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=gcuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://when-will.net/images/artikel/2015/september/Black-Jesus.jpg" group-title="24/7", Black Jesus (Geo)
+http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bee1a7359ee03633e780238/featuredImage.jpg" group-title="24/7", Dog the Bounty Hunter
 https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=x24jbjrh2o33lln3jns6j2tmn0
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c86b772e7f96a5a929736c0/featuredImage.jpg" group-title="24/7 Pluto", Her Dramas
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/azzpKrT.png" group-title="24/7", Dream Corp LLC (Geo)
+http://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/554158e864526b29254ff105/featuredImage.jpg" group-title="24/7", Fail Army
+http://stitcher.pluto.tv/stitch/hls/channel/554158e864526b29254ff105/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c86b772e7f96a5a929736c0/featuredImage.jpg" group-title="24/7", Her Dramas
 https://stitcher.pluto.tv/stitch/hls/channel/5c86b772e7f96a5a929736c0/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=apleiqkv48retieubjjds9qrm7
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c363ac9e41be30cb6054c7c/featuredImage.jpg" group-title="24/7 Pluto", Yu-Gi-Oh! 5D’s
-https://stitcher.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b45b9ea1nuf9ijm985tiag4ge6
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.sharetv.com/shows/standard/home_movies.jpg" group-title="24/7", Home Movies (Geo)
+https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="24/7 IPTV", 24/7 Hollywood Movies
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Dethklok2.jpg/250px-Dethklok2.jpg" group-title="24/7", Metalocalypse (Geo)
+http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" group-title="24/7 IPTV", 24/7 | Rick and Morty
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ytimg.com/vi/SgoRKIpGIs0/maxresdefault.jpg" group-title="24/7", Mr. Pickles (Geo)
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" group-title="24/7", Rick and Morty (Geo)
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", A Guide to Second Date Sex
-http://62-210-100-53.rev.poneytelecom.eu/2019/A%20Guide%20to%20Second%20Date%20Sex%20%5b2019%5d%5bfilm%5d.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i0.kym-cdn.com/entries/icons/facebook/000/015/339/Robot_Chicken.jpg" group-title="24/7", Robot Chicken (Geo)
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.pinimg.com/originals/d6/8c/dd/d68cdd473f7a56f574b7514e24fbc1ce.jpg" group-title="24/7", Squidbillies (Geo)
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.sharetv.com/shows/standard/superjail.jpg" group-title="24/7", Superjail! (Geo)
+https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vignette2.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png" group-title="24/7", The Eric Andre Show (Geo)
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/The_Venture_Bros_logo.svg/1200px-The_Venture_Bros_logo.svg.png" group-title="24/7", The Venture Bros. (Geo)
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://channelpear.com/images/media/4874.png" group-title="24/7", Tim and Eric (Geo)
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png" group-title="24/7", Williams Stream (Geo)
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Your_Pretty_Face_is_Going_to_Hell.png" group-title="24/7", Your Pretty Face (Geo)
+https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c363ac9e41be30cb6054c7c/featuredImage.jpg" group-title="24/7", Yu-Gi-Oh! 5D’s
+https://stitcher.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b45b9ea1nuf9ijm985tiag4ge6
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c363ac9e41be30cb6054c7c/featuredImage.jpg" group-title="24/7", Yu-Gi-Oh! 5D’s
+https://stitcher.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b45b9ea1nuf9ijm985tiag4ge6
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Annabelle
 http://mysxteam.com/GudangMovie/English/Annabelle/Annabelle%20(2014)%20.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Annabelle - Creation
 http://mysxteam.com/GudangMovie/English/Annabelle/Annabelle%20-%20Creation%20(2017).mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Annabelle Comes Home
-http://178.162.145.97/publicDL/Movies/Annabelle.Comes.Home.2019.720p.KORSUB.HDRip.XviD.MP3-STUTTERSHIT.avi
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Ant man
-
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Ant-Man and the Wasp
-http://178.162.145.97/publicDL/Movies/Ant.Man.and.the.Wasp.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Avengers (2012)
-http://178.162.145.97/publicDL/Movies/The.Avengers.2012.1080p.BluRay.H264.ACC.5.1.BADASSMEDIA.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Avengers - End Game
-http://178.162.145.97/publicDL/Movies/Avengers.Endgame.2019.1080p.WEBRip.x264.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Avengers - Infinity Wars
-http://178.162.145.97/publicDL/Movies/Avengers.Infinity.War.2018.1080p.WEBRip.x264-%5bYTS.AM%5d.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Avengers Age of Ultron
-http://178.162.145.97/publicDL/Movies/Avengers.Age.of.Ultron.2015.1080p.265.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Black Panther
-http://178.162.145.97/publicDL/Movies/Black.Panther.2018.1080p.BluRay.x264.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Blood and Bone
-http://dasti.persiangig.com/video/Blood.and.Bone.2009.BluRay.720p%20%20%5bviva%20movie%5d.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Captain America - The First Avenger
-http://178.162.145.97/publicDL/Movies/Captain.America.The%20First%20Avenger.2011.1080p.BluRay.AC3.X264-ETRG.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Captain America - The Winter Soldier
-http://178.162.145.97/publicDL/Movies/Captain.America.The.Winter.Soldier.2014.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Cheech and Chong - Up in Smoke
-http://ace-net.net/stream/Movies/PublicMovies/Cheech%20and%20Chong%20Up%20in%20Smoke.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Dawn of the Dead
-http://178.162.145.97/publicDL/Movies/Dawn.of.the.Dead.2004.1080p.BrRip.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Deadpool
-http://ace-net.net/stream/Movies/PublicMovies/Deadpool.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Deadpool 2
-http://178.162.145.97/publicDL/Movies/Deadpool.2.2018.1080p.BluRay.x264.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Death Wish
-http://178.162.145.97/publicDL/Movies/Death.Wish.1974.1080p.BluRay.X264-AMIABLE.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Die Hard
-http://ace-net.net/stream/Movies/PublicMovies/Die%20Hard.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Die Hard 2
-http://ace-net.net/stream/Movies/PublicMovies/Die%20Hard%202.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Die Hard 4
-http://ace-net.net/stream/Movies/PublicMovies/Die%20Hard%204.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Die Hard with a Vengeance
-http://ace-net.net/stream/Movies/PublicMovies/Die%20Hard%20With%20a%20Vengeance.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Dr.  Strange
-http://ace-net.net/stream/Movies/PublicMovies/Doctor%20Strange.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Eragon
-http://ace-net.net/stream/Movies/PublicMovies/Eragon.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Fast and the Furious
 http://mysxteam.com/GudangMovie/English/Fast%20and%20Furious/The%20Fast%20And%20The%20Furious%20(2001)%20.mp4
@@ -117,36 +99,6 @@ http://mysxteam.com/GudangMovie/English/Fast%20and%20Furious/Furious%207%20(2015
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Fast & Furious 8
 http://mysxteam.com/GudangMovie/English/Fast%20and%20Furious/Fast%20&%20Furious%208%20(2017)%20.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Fast and Furious 9
-http://54.39.19.165/Movies1/T/The%20Fast%20and%20the%20Furious%2009%20%282019%29.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Guardians of the Galaxy Vol. I
-http://178.162.145.97/publicDL/Movies/Guardians.of.the.Galaxy.2014.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Guardians of the Galaxy Vol. II
-http://ace-net.net/stream/Movies/PublicMovies/Guardians%20of%20the%20Galaxy%20Vol.2.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Harry Potter and the Chamber of Secrets
-http://ace-net.net/stream/Movies/PublicMovies/Harry%20Potter%20Chamber%20Of%20Secrets.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Harry Potter and the Half Blood Prince
-http://ace-net.net/stream/Movies/PublicMovies/Harry%20Potter%20Half%20Blood%20Prince.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Harry Potter Deathly Hallows (Part 1)
-http://ace-net.net/stream/Movies/PublicMovies/Harry%20Potter%20Deathly%20Hallows%20Part%201.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Harry Potter Deathly Hollows (Part 2)
-http://ace-net.net/stream/Movies/PublicMovies/Harry%20Potter%20Deathly%20Hallows%20Part%202.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Hellboy (2019)
-http://178.162.145.97/publicDL/Movies/Hellboy.2019.1080p.WEBRip.x264.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", How to Train Your Dragon
-http://ace-net.net/stream/Movies/PublicMovies/How%20To%20Train%20Your%20Dragon.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", How to Train Your Dragon 2
-http://ace-net.net/stream/Movies/PublicMovies/How%20To%20Train%20Your%20Dragon%202.mp4
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Hulk (2003)
 http://mysxteam.com/GudangMovie/English/Marvel/Hulk/Hulk%20(2003)%20.mp4
 
@@ -162,92 +114,23 @@ http://mysxteam.com/GudangMovie/English/I%20split%20on%20your%20grave/I%20Spit%2
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", It - Chapter two
 http://46.4.10.77/filmes2/It.Chapter.Two.2019/It.Chapter.Two.2019.720p.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Incredible Hulk
-http://178.162.145.97/publicDL/Movies/The.Incredible.Hulk.2008.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Iron Man
-http://178.162.145.97/publicDL/Movies/Iron.Man.2008.1080p.BrRip.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Iron Man 2
-http://178.162.145.97/publicDL/Movies/Iron.Man.2.2010.1080p.BrRip.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Iron Man 3
-http://ace-net.net/stream/Movies/PublicMovies/Iron%20Man%203.mp4
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", John Wick
 http://mysxteam.com/GudangMovie/English/J.Wick/John%20Wick%20(2014)%20.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", John Wick 2
 http://mysxteam.com/GudangMovie/English/J.Wick/John%20Wick%20Chapter%202%20(2017)%20.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", John Wick 3
-http://178.162.145.97/publicDL/Movies/John.Wick.3.2019.HDRip.720p.x264.AAC-BonsaiHD.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Kill Bil Vol. I
-http://178.162.145.97/publicDL/Movies/Kill.Bill.Vol.1.2003.1080p.BluRay.10bit.HEVC.6CH-MkvCage.ws.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Kill Bill Vol.  II
-http://178.162.145.97/publicDL/Movies/Kill.Bill.Vol.2.2004.1080p.BluRay.10bit.HEVC.6CH-MkvCage.ws.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", King Arthur Legend of the Sword
-http://178.162.145.97/publicDL/Movies/King.Arthur.Legend.of.the.Sword.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Lego Movie 2
-http://dl3.haylimoviez.info/Movie%202019/The.Lego.Movie.2.The.Second.Part.2019.480p.WEB-DL.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Logan (2017)
-http://178.162.145.97/publicDL/Movies/Logan.2017.1080p.BluRay.x264.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Matrix
-http://54.39.19.165/Movies1/T/The%20Matrix%20%281999%29.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Matrix - Reloaded 
-http://54.39.19.165/Movies1/T/The%20Matrix%20Reloaded%20%282003%29.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Matrix - Revolutions
-http://54.39.19.165/Movies1/T/The%20Matrix%20Revolutions%20%282003%29.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Men in Black
-http://ace-net.net/stream/Movies/PublicMovies/Men%20In%20Black.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Men In Black 2
-http://ace-net.net/stream/Movies/PublicMovies/Men%20In%20Black%202.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Men in Black 3
-http://ace-net.net/stream/Movies/PublicMovies/Men%20in%20Black%203.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Men in Black - International
-http://dl3.haylimoviez.info/Movie%202019/Men.in.Black.International.2019.1080p.HC.HDRip.MkvCage.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Pirates of the Caribbean - The Curses of the Black Pearl
-http://ace-net.net/stream/Movies/PublicMovies/Pirates%20Of%20The%20Caribbean%20-%20The%20Cures%20of%20the%20Black%20Pearl.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Pokemon - Pikachu Pet Detective
-http://dl3.haylimoviez.info/Movie%202019/Pokemon.Detective.Pikachu.2019.720p.6CH.RARBG.mkv
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Resident Evil
 http://mysxteam.com/GudangMovie/English/Resident%20Evil/Resident%20Evil%20(2002)%20.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Resident Evil - Afterlife
-http://mysxteam.com/GudangMovie/English/Resident%20Evil/Resident%20Evil%204%20-%20Afterlife%20(2010)%20.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Resident Evil 2 - Apocalypse
 http://mysxteam.com/GudangMovie/English/Resident%20Evil/Resident%20Evil%202%20-%20Apocalypse%20(2004)%20.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Resident Evil - Afterlife
+http://mysxteam.com/GudangMovie/English/Resident%20Evil/Resident%20Evil%204%20-%20Afterlife%20(2010)%20.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Resident Evil - Extinction
 http://mysxteam.com/GudangMovie/English/Resident%20Evil/Resident%20Evil%203%20-%20Extinction%20(2007)%20.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Resident Evil - Retribution
-http://ace-net.net/stream/Movies/PublicMovies/Resident%20Evil%20Retribution.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Resident Evil - The Final Chapter
-http://ace-net.net/stream/Movies/PublicMovies/Resident%20Evil%20The%20Final%20Chapter.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Rest in Peace Department (RIPD)
-http://ace-net.net/stream/Movies/PublicMovies/R.I.P.D.%20Rest%20In%20Peace%20Department.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Scarface (1983)
-http://178.162.145.97/publicDL/Movies/Scarface.1983.1080p.BluRay.H264.AAC-RARBG.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Spiderman 2
 http://mysxteam.com/GudangMovie/English/Marvel/Spider-Man/Spider-Man%202%20(2004)%20.mp4
@@ -255,159 +138,87 @@ http://mysxteam.com/GudangMovie/English/Marvel/Spider-Man/Spider-Man%202%20(2004
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Spiderman 3
 http://mysxteam.com/GudangMovie/English/Marvel/Spider-Man/Spider-Man%203%20(2007)%20.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Spiderman - Far From Home
-http://178.162.145.97/publicDL/Movies/Spider-Man.Far.From.Home.2019.1080p.WEBRip.x264.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Spiderman - Into the Spider-Verse
-http://178.162.145.97/publicDL/Movies/Spider-Man.Into.the.Spider-Verse.2018.720p.BluRay.H264.AAC-RARBG.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Spiderman - Homecoming
-http://178.162.145.97/publicDL/Movies/Spider-Man.Homecoming.2017.1080p.BluRay.x264.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Suicide Squad
-http://178.162.145.97/publicDL/Movies/Suicide.Squad.2016.1080p.BluRay.x264.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Taken
-http://54.39.19.165/Movies1/T/Taken%20%282008%29.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Taken 2
-http://54.39.19.165/Movies1/T/Taken%202%20%282012%29.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Taken 3
-http://54.39.19.165/Movies1/T/Taken%203%20%282015%29.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Ted
-http://54.39.19.165/Movies1/T/TED%20%282012%29.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Ted 2
-http://54.39.19.165/Movies1/T/Ted%202%20%282015%29.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", The Adams Family
-http://54.39.19.165/Movies1/T/The%20Addams%20Family%20%281991%29.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", The Adams Family 2
-http://54.39.19.165/Movies1/T/The%20Addams%20Family%202%20%281993%29.mkv
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", The Amazing Spiderman
 http://mysxteam.com/GudangMovie/English/Marvel/Spider-Man/The%20Amazing%20Spider-Man%20(2012)%20.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", The Amazing Spiderman 2
 http://mysxteam.com/GudangMovie/English/Marvel/Spider-Man/The%20Amazing%20Spider-Man%202%20(2014)%20.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", The Purge
-http://54.39.19.165/Movies1/T/The%20Purge%20%282013%29.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", The Purge - Anarchy
-http://54.39.19.165/Movies1/T/The%20Purge%20Anarchy%20%282014%29.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", The Purge - The Election Year
-
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", The Secret Life of Pets 2
-http://54.39.19.165/Movies1/T/The%20Secret%20Life%20of%20Pets%202%20%282019%29.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Thor
-http://178.162.145.97/publicDL/Movies/Thor.2011.1080p.BrRip.x264.YIFY+HI.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Thor - Ragnarok
-http://178.162.145.97/publicDL/Movies/Thor.Ragnarok.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Thor - The Dark World
-http://178.162.145.97/publicDL/Movies/Thor.The.Dark.World.2013.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Twighlight
-http://54.39.19.165/Movies1/T/Twilight%20%282008%29.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Twighlight - Breaking Dawn (Part 1)
-http://54.39.19.165/Movies1/T/The%20Twilight%20Saga%20Breaking%20Dawn%20-%20Part%201%20%282011%29.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Twighlight - Breaking Dawn (Part 2)
-http://54.39.19.165/Movies1/T/The%20Twilight%20Saga%20Breaking%20Dawn%20-%20Part%202%20%282012%29.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Twighlight - Eclipse 
-http://54.39.19.165/Movies1/T/The%20Twilight%20Saga%20Eclipse%20%282010%29.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Twighlight - New Moon
-http://54.39.19.165/Movies1/T/The%20Twilight%20Saga%20New%20Moon%20%282009%29.mp4
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Venom
 http://mysxteam.com/GudangMovie/English/Marvel/Venom%20(2018)%20.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Wonder Woman
-http://178.162.145.97/publicDL/Movies/Wonder.Woman.2017.1080p.BluRay.x264.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="Channels", America's Funniest Videos
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", X-Men
-http://178.162.145.97/publicDL/Movies/X-Men.2000.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="Channels", American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", X-Men - Apocalypse
-http://178.162.145.97/publicDL/Movies/X-Men.Apocalypse.2016.1080p.BluRay.x264.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://wwwimage-secure.cbsstatic.com/thumbnails/photos/w1200-h630-c1200:630/blog/87fdad6e1b37da4a_cbs_sports_hq_1920.jpg" group-title="Channels", CBS Sports HQ (Geo)
+https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", X-Men - Dark Phoenix
-http://mysxteam.com/GudangMovie/English/Marvel/X%20men/X%20Men%20Dark%20Phoenix%20(2019)%20.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Charge%21_network_logo.png" group-title="Channels", Charge! (Geo)
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", X-Men - First Class
-http://178.162.145.97/publicDL/Movies/X-Men.First.Class.2011.1080p.BrRip.x264.YIFY+HI.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ZIZZG8v.png" group-title="Channels", Comet TV (Geo)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", X-Men - Origins of Wolverine
-http://178.162.145.97/publicDL/Movies/X-Men.Origins.Wolverine.2009.1080p.BrRip.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/nGIOiF6.png" group-title="Channels", Discovery Velocity (Geo)
+http://195.181.169.148/Discovery_velocity_121_Eng/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", X-Men - The Last Stand
-http://178.162.145.97/publicDL/Movies/X-Men.The.Last.Stand.2006.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Channels", Food Network (Geo)
+http://195.181.169.148/FOODNETHD_USA_Eng/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", X-Men 2
-http://178.162.145.97/publicDL/Movies/X-Men.2.2003.1080p.BrRip.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/dfaJpw4.png" group-title="Channels", Hallmark Movies & Mysteries (Geo)
+http://crownmediaingest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3053348551~acl=/*~hmac=592bc88702cf4f549f6fa1233adcf78fdff0209e062d72a244dce61650291d26
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", X-Men Days of Future Past
-http://178.162.145.97/publicDL/Movies/X-Men.Days.of.Future.Past.2014.The.Rogue.Cut.1080p.BluRay.AC3.x264-ETRG.mkv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="Channels", Law & Crime Network (Opt-2)
+https://live-lawandcrime.simplestreamcdn.com/landc_d1/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", 24/7 | (KIDS) ADVENTURE TIME
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6053.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="Channels", Law & Crime Network (Opt-3)
+https://live-lawandcrime.simplestreamcdn.com/landc_d2/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", 24/7 | (KIDS) PINKY AND THE BRAIN
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/6055.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="Channels", Nat Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: ANIMAL PLANET EAST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1260.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="Channels", Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: ANIMAL PLANET WEST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1261.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="Channels", National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: CARTOON NETWORK
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1274.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/800px-OWN_2011_logo.svg.png" group-title="Channels", Oprah Winfrey Network (Opt-1) (Geo)
+http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/2596k/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: CARTOON NETWORK WEST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/4041.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/800px-OWN_2011_logo.svg.png" group-title="Channels", Oprah Winfrey Network (Opt-2) (Geo)
+http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY CHANNEL EAST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1472.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.lagovista.lib.tx.us/PBS%20Kids.jpg/@@images/image.jpeg" group-title="Channels", PBS Kids (EST) (Geo)
+http://live-cdn.pbskids.org/out/u/est.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY CHANNEL WEST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1471.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.lagovista.lib.tx.us/PBS%20Kids.jpg/@@images/image.jpeg" group-title="Channels", PBS Kids (Geo)
+http://live-cdn.pbskids.org/out/u/aim/wttw.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY JR EAST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1473.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.lagovista.lib.tx.us/PBS%20Kids.jpg/@@images/image.jpeg" group-title="Channels", PBS Kids (PST) (Geo)
+http://live-cdn.pbskids.org/out/u/pst.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY JR WEST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1474.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="Channels", Sony Movie Channel (Geo)
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY XD EAST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1475.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.scribblrs.com/wp-content/uploads/2017/07/tbs.png" group-title="Channels", TBS (Geo)
+http://195.181.169.148/TBS_Eng/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: DISNEY XD WEST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1476.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1024px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Channels", The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: NAT GEO WILD
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1420.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/K2XHhWW.png" group-title="Sports", Action Sports 4U
+https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: NATIONAL GEOGRAPHIC
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1419.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/d2o69uW.png" group-title="Sports", Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: NICK JR EAST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1479.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="Sports", MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: NICKELODEON EAST
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1477.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", KIDS: NICKTOONS
-http://beastiptv.tv:25461/live/Shauna12/Shauna12/1481.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/6chO5x2.png" group-title="Sports", WWE Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 
