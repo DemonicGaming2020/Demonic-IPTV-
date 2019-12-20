@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Testing", John Wick 3
-http://tr1t0n.steropes.feralhosting.com/movies/John.Wick.Chapter.3.Parabellum.2019.1080p.HC.HDRip.x264.AC3-DSTeam.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Testing", Fast & Furious 9
-http://tr1t0n.steropes.feralhosting.com/movies/The%20Fast%20And%20The%20Furious%20Hobbs%20And%20Shaw%20HDRip%20HC%20720p%20x264%20Ganool.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Testing", Rick & Morty | Season 1 | Episode 1
-http://tman.ca/temp/Rick%20and%20Morty%20Season%201%20%5B1080p%5D%20%5BHEVC%5D/%5bpseudo%5d%20Rick%20and%20Morty%20S01E01%20-%20Pilot%20%5b1080p%5d%20%5bh.265%5d.mkv
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/4cc90abe-fdfa-a008-eaf5-d1e508a0cd5a-4kTV_hero.jpg" group-title="24/7", 4K TV
 http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
@@ -102,6 +93,9 @@ http://mysxteam.com/GudangMovie/English/Fast%20and%20Furious/Furious%207%20(2015
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Fast & Furious 8
 http://mysxteam.com/GudangMovie/English/Fast%20and%20Furious/Fast%20&%20Furious%208%20(2017)%20.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Fast & Furious 9
+http://tr1t0n.steropes.feralhosting.com/movies/The%20Fast%20And%20The%20Furious%20Hobbs%20And%20Shaw%20HDRip%20HC%20720p%20x264%20Ganool.mkv
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Hulk (2003)
 http://mysxteam.com/GudangMovie/English/Marvel/Hulk/Hulk%20(2003)%20.mp4
 
@@ -122,6 +116,9 @@ http://mysxteam.com/GudangMovie/English/J.Wick/John%20Wick%20(2014)%20.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", John Wick 2
 http://mysxteam.com/GudangMovie/English/J.Wick/John%20Wick%20Chapter%202%20(2017)%20.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", John Wick Chapter 3
+http://tr1t0n.steropes.feralhosting.com/movies/John.Wick.Chapter.3.Parabellum.2019.1080p.HC.HDRip.x264.AC3-DSTeam.mkv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Movies", Resident Evil
 http://mysxteam.com/GudangMovie/English/Resident%20Evil/Resident%20Evil%20(2002)%20.mp4
